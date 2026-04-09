@@ -1,0 +1,5 @@
+{
+  "name": "SafeSphere: Personal Safety System",
+  "description": "An advanced AI-powered emergency response system that analyzes situations in real-time to provide life-saving guidance and alerts.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
